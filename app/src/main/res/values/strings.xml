@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorldRepaso1</string>
+    <string name="say_hello_button_label">Say Hello</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="numero_Message">numero</string>
+    <string name="increase_Button">increase</string>
+
+
+</resources>
